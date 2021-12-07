@@ -1,9 +1,9 @@
-# undefined
-  ![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg)
+# README Generator
+  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
   
-  undefined
+  blah
   
   ## Table of Contents 
   
@@ -24,31 +24,31 @@
   To install necessary dependencies, run the following command:
   
   ```
-  undefined
+  npm i
   ```
   
   ## Usage
   
-  undefined
+  Makes life easy as pie!
   
   ## License
   
-  This project is licensed under the undefined license.
+  This project is licensed under the MIT license.
     
   ## Contributing
   
-  undefined
+  no contributions were made to this repo
   
   ## Tests
   
   To run tests, run the following command:
   
   ```
-  undefined
+  npm test
   ```
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at undefined. You can find more of my work at [undefined](https://github.com/undefined/).
+  If you have any questions about the repo, open an issue or contact me directly at JRSMXDEV@GMAIL.COM	. You can find more of my work at [Jasmine Tuff](https://github.com/Jasmine Tuff/).
   
   
