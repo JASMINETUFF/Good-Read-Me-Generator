@@ -1,9 +1,9 @@
-# README Generator
+# test
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
   
-  blah
+  test
   
   ## Table of Contents 
   
@@ -29,7 +29,7 @@
   
   ## Usage
   
-  Makes life easy as pie!
+  test
   
   ## License
   
@@ -37,7 +37,7 @@
     
   ## Contributing
   
-  no contributions were made to this repo
+  test
   
   ## Tests
   
@@ -49,6 +49,6 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at JRSMXDEV@GMAIL.COM	. You can find more of my work at [Jasmine Tuff](https://github.com/Jasmine Tuff/).
+  If you have any questions about the repo, open an issue or contact me directly at test. You can find more of my work at [test](https://github.com/test/).
   
   
