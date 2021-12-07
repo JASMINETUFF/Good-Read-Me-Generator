@@ -1,9 +1,9 @@
-# test
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# README Generator
+  
   
   ## Description
   
-  test
+  This is an application that will quickly generate a README file using node in the terminal. 
   
   ## Table of Contents 
   
@@ -11,8 +11,6 @@
   
   * [Usage](#usage)
   
-* [License](#license)
-
   * [Contributing](#contributing)
   
   * [Tests](#tests)
@@ -24,20 +22,18 @@
   To install necessary dependencies, run the following command:
   
   ```
-  npm i
+  npm install
   ```
   
   ## Usage
   
-  test
+  This will save you lots of time
   
-  ## License
   
-  This project is licensed under the MIT license.
     
   ## Contributing
   
-  test
+  no contributions were made
   
   ## Tests
   
@@ -49,6 +45,6 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at test. You can find more of my work at [test](https://github.com/test/).
+  If you have any questions about the repo, open an issue or contact me directly at jrsmxdev@Gmail.com. You can find more of my work at [Jasmine Tuff](https://github.com/Jasmine Tuff/).
   
   
